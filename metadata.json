@@ -1,0 +1,6 @@
+{
+  "name": "ASABB Zambia NOC Dashboard",
+  "description": "An enterprise-grade, real-time Network Operations Center (NOC) dashboard for ASABB Bank Zambia, featuring SentinelNOC continuous device monitoring engine, branch telemetry, alert feed, live escalation engine, and GIZA AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
